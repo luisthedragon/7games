@@ -1,0 +1,68 @@
+table{
+	margin: 0 auto;
+}
+
+td{
+	height: 50px;
+	width: 50px;
+	background: url('img/hacked.png');
+	background-size: cover;
+	border: black;
+}
+
+body{
+	background: #f1f1f1;
+	text-align: center;
+}
+
+#back-button{
+	position: absolute;
+}
+
+.card{
+	width: 200px;
+	height: 200px;
+	background-image: url('img/wwo logo.png');
+	background-size: cover;
+}
+
+#final-message{
+	font-size: 100px;
+	position: fixed;
+	transform: translate(-50%, -50%);
+    background-color: yellow;
+    top: 50%;
+    left: 50%;
+	display: none;
+}
+
+.card-container{
+	display: grid;
+	grid-template-columns: repeat(3, 200px);  
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+div{
+	text-align: center;
+}
+
+/*#match-info{
+	animation: xd 3s ease alternate;
+}*/
+
+@keyframes xd{
+	0%{color: black; font-size: 100%;}
+	50%{color: blue; font-size: 150%;}
+	100%{color: red; font-size: 200%;}
+}
+
+@media(max-width:800px){
+  .card-container {
+     grid-template-columns: repeat(auto-fill, 200px);
+  }
+}
+
+.hidden{
+	/*display: none;*/
+}

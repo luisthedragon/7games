@@ -1,0 +1,839 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"co",
+				"counter\tabc"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"lastMo",
+				"last_move\tabc"
+			],
+			[
+				"p1",
+				"p1_turn\tabc"
+			],
+			[
+				"shif",
+				"shiffman.jpg\tw:400 h:400"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"ww",
+				"wwo logo.png\tw:129 h:129"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"getTim",
+				"getTimeElapsed\tabc"
+			],
+			[
+				"setTiem",
+				"setTimeout\tabc"
+			],
+			[
+				"setTime",
+				"setTimeout\tabc"
+			],
+			[
+				"update",
+				"updateCards\tabc"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"pointsT",
+				"pointsToWin\tabc"
+			],
+			[
+				"points",
+				"points"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"card",
+				"cardsRevealed\tabc"
+			],
+			[
+				"click",
+				"clickHandler\tabc"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"u",
+				"undefined\t: object Global"
+			],
+			[
+				"cardRev",
+				"cardsRevealed\tabc"
+			],
+			[
+				"back",
+				"background-image\t(style.css)"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"comm",
+				"comment\tabc"
+			],
+			[
+				"em",
+				"email\t(contact.php)"
+			],
+			[
+				"rquei",
+				"require_once"
+			],
+			[
+				"qe",
+				"query\tabc"
+			],
+			[
+				"print",
+				"print_r\t(db.php)"
+			],
+			[
+				"get",
+				"getOptionSelected\t(survey.php)"
+			],
+			[
+				"curren",
+				"currentPHP"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"list-",
+				"list-style\tproperty"
+			],
+			[
+				"temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"login",
+				"loginErr\t(login.php)"
+			],
+			[
+				"regi",
+				"registros\t(db.php)"
+			],
+			[
+				"user",
+				"user_session.php"
+			],
+			[
+				"userE",
+				"userExist\t(user.php)"
+			],
+			[
+				"pass",
+				"password\tabc"
+			],
+			[
+				"use",
+				"username\tabc"
+			],
+			[
+				"hash",
+				"password_hash"
+			],
+			[
+				"va",
+				"validateUser\t(user.php)"
+			],
+			[
+				"Ero",
+				"ErrorException"
+			],
+			[
+				"U",
+				"User\t(user.php)"
+			],
+			[
+				"ver",
+				"password_verify"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"web",
+				"websiteErr\tabc"
+			],
+			[
+				"ema",
+				"emailErr\tabc"
+			],
+			[
+				"htm",
+				"htmlspecialchars\tabc"
+			],
+			[
+				"slash",
+				"stripslashes"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"main",
+				"main-header\t(style.css)"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"scr",
+				"script.js\tabc"
+			],
+			[
+				"scri",
+				"script.js"
+			],
+			[
+				"actress",
+				"actresses\t(App.js)"
+			],
+			[
+				"Actres",
+				"Actresses"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Reac",
+				"React\tabc"
+			],
+			[
+				"react-",
+				"react-router-dom\t(actors.js)"
+			],
+			[
+				"actre",
+				"actresses.js"
+			],
+			[
+				"spac",
+				"space-around\tjustify-content"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"Actor",
+				"ActorsList\tabc"
+			],
+			[
+				"ACt",
+				"ActorsList\t(actors.js)"
+			],
+			[
+				"nav",
+				"nav-menu__link\tabc"
+			],
+			[
+				"ac",
+				"actress\t(App.js)"
+			],
+			[
+				"clas",
+				"className\t(App.js)"
+			],
+			[
+				"padid",
+				"padding-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tabc"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"w",
+				"w-resize\tcursor"
+			],
+			[
+				"text-decor",
+				"text-decoration\tproperty"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"proce",
+				"process.php\tabc"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"F",
+				"FETCH_OBJ\tabc"
+			],
+			[
+				"art",
+				"articuloModelo\tabc"
+			],
+			[
+				"exception",
+				"ASSERT_EXCEPTION"
+			],
+			[
+				"modelo",
+				"modelo"
+			],
+			[
+				"vista",
+				"vista"
+			],
+			[
+				"par",
+				"parametros"
+			],
+			[
+				"call_u",
+				"call_user_func_array"
+			],
+			[
+				"metodo",
+				"metodoActual"
+			],
+			[
+				"controlador",
+				"controladorActual"
+			],
+			[
+				"filet",
+				"filter_var"
+			],
+			[
+				"p",
+				"p\t<p>"
+			],
+			[
+				"hi",
+				"highlight"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"leng",
+				"length\t: int Array"
+			],
+			[
+				"widt",
+				"width\t Style CSS"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"let",
+				"style_letterSpacing\t = 'initial' Style CSS"
+			],
+			[
+				"dis",
+				"infector_discard_pile"
+			],
+			[
+				"_",
+				"__\t__magic__"
+			],
+			[
+				"infe",
+				"infector_deck"
+			],
+			[
+				"infector",
+				"infector_discard_pile"
+			],
+			[
+				"in",
+				"infector_deck"
+			],
+			[
+				"pla",
+				"new_player_deck"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"player",
+				"player_deck"
+			],
+			[
+				"new_",
+				"new_player_deck"
+			],
+			[
+				"comm-h",
+				"comm-html-section\tComment - HTML section"
+			],
+			[
+				"comm-se",
+				"comm-section\tComment - Full section comment"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 329.0,
+		"history":
+		[
+			"jj",
+			"k",
+			"exit",
+			"reset()",
+			"close()",
+			"exit(1)",
+			"exit()",
+			"print(a)",
+			"a=1",
+			"npm install -g eslint"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/withoutphp/7games"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/withoutphp/7games/connect-4/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/connect-4/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/connect-4/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/wack-a-mole.sublime-project",
+		"/C/Users/LuisGerman/Desktop/imagenes/shiffman.jpg",
+		"/C/Users/LuisGerman/Desktop/imagenes/hacked.png",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/products.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/css/styles.css",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/received_contact.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/contact.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/index.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/config.php",
+		"/C/xampp/htdocs/multiple_pages_test/views/products.php",
+		"/C/xampp/htdocs/multiple_pages_test/contact",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/56. hashes/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/56. hashes/final.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/15 Fechas/fechas.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/28. creación de BD y tabla/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/vistas/vista-resultados.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/includes/survey.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/includes/db.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/11 Formulario radios.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/10 Formulario listas.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/13. include/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/tutorial/includes/survey.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/07 ciclos/ciclos.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/08 GET y POST/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/01 sintaxis.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/02 strings.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/04 datos.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/05 Condicionales.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/06 arreglos.php",
+		"/C/xampp/htdocs/loginBasico/index.php",
+		"/C/xampp/htdocs/loginBasico/includes/db.php",
+		"/C/xampp/htdocs/loginBasico/includes/user.php",
+		"/C/xampp/htdocs/loginBasico/includes/logout.php",
+		"/C/xampp/htdocs/loginBasico/vistas/login.php",
+		"/C/xampp/htdocs/loginBasico/vistas/home.php",
+		"/C/xampp/htdocs/loginBasico/config.php",
+		"/C/xampp/htdocs/loginBasico/db.php",
+		"/C/xampp/htdocs/loginBasico/user.php",
+		"/C/xampp/htdocs/loginBasico/vistas/home",
+		"/C/xampp/htdocs/loginBasico/style.css",
+		"/C/xampp/htdocs/loginBasico/css",
+		"/C/xampp/htdocs/loginBasico/vistas/login",
+		"/C/xampp/htdocs/loginBasico/user",
+		"/C/xampp/htdocs/loginBasico/db",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/style.css",
+		"/C/Users/LuisGerman/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/index.php",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/index.ph",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/js/main.js",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/css/style.css",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/collection.php",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/index.php",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/script.js",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/index.html",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/style.css",
+		"/C/xampp/htdocs/thinking_in_react/script.js",
+		"/C/xampp/htdocs/thinking_in_react/style.css",
+		"/C/xampp/htdocs/thinking_in_react/data.json",
+		"/C/xampp/htdocs/thinking_in_react/index.html",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/actresses.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/films.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actressesContainer.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actress.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/film.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/filmsContainer.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actresses.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/index.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/css/style.css",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actorsContainer.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actor.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actors.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/films.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/home.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/App.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/navbar.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/Films",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/actors.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/navbar.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/App.test.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/spa_react.sublime-project",
+		"/C/xampp/htdocs/freeCodeGram/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/PHP-CRUD/Connect.php",
+		"/C/xampp/htdocs/PHP-CRUD/process.php",
+		"/C/xampp/htdocs/PHP-CRUD/index.php",
+		"/C/xampp/htdocs/PHP-CRUD/.htaccess",
+		"/C/xampp/htdocs/PHP-CRUD/read.php",
+		"/C/xampp/htdocs/PHP-CRUD/create.php",
+		"/C/xampp/htdocs/PHP-CRUD/index.html",
+		"/C/xampp/htdocs/crud_mvc/app/helpers/urlhelper.php",
+		"/C/xampp/htdocs/crud_mvc/app/views/inc/header.php",
+		"/C/xampp/htdocs/crud_mvc/app/iniciador.php",
+		"/C/xampp/htdocs/crud_mvc/app/config/configurar.php",
+		"/C/xampp/htdocs/crud_mvc/.htaccess",
+		"/C/xampp/htdocs/crud_mvc/app/.htaccess",
+		"/C/xampp/htdocs/crud_mvc/public/.htaccess",
+		"/C/xampp/htdocs/render2web_mvc/app/views/paginas/inicio.php",
+		"/C/xampp/htdocs/render2web_mvc/app/iniciador.php",
+		"/C/xampp/htdocs/render2web_mvc/app/views/inc/footer.php",
+		"/C/xampp/htdocs/render2web_mvc/app/views/inc/header.php",
+		"/C/xampp/htdocs/render2web_mvc/public/js/main.js",
+		"/C/xampp/htdocs/render2web_mvc/app/controllers/Paginas.php",
+		"/C/xampp/htdocs/render2web_mvc/app/models/Articulo.php",
+		"/C/xampp/htdocs/render2web_mvc/app/libraries/Database.php",
+		"/C/xampp/htdocs/render2web_mvc/app/config/configurar.php",
+		"/C/xampp/htdocs/render2web_mvc/public/css/estilos.css",
+		"/C/xampp/htdocs/render2web_mvc/public/estilos.css",
+		"/C/xampp/htdocs/render2web_mvc/app/libraries/Controller.php",
+		"/C/xampp/htdocs/render2web_mvc/public/index.php",
+		"/C/xampp/htdocs/render2web_mvc/app/libraries/Core.php",
+		"/C/xampp/htdocs/render2web_mvc/app/controllers/Articulos.php",
+		"/C/xampp/htdocs/render2web_mvc/.htaccess",
+		"/C/xampp/htdocs/render2web_mvc/public/.htaccess",
+		"/C/xampp/htdocs/render2web_mvc/controllers/Paginas.php",
+		"/C/xampp/htdocs/render2web_mvc/index.php",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1MazeGenerator/index.html",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1MazeGenerator/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1Maze Generator/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1Maze Generator/index.html",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/10.10_The_Giphy_API_and_JavaScript/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/10.10_The_Giphy_API_and_JavaScript/style.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"showTimeElapsed",
+			"50",
+			"this",
+			"<div class=\"card\"></div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"card"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "7games.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\loginBasico\\loginBasico.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

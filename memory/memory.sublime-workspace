@@ -1,0 +1,1159 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pointsT",
+				"pointsToWin\tabc"
+			],
+			[
+				"points",
+				"points"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"card",
+				"cardsRevealed\tabc"
+			],
+			[
+				"click",
+				"clickHandler\tabc"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"u",
+				"undefined\t: object Global"
+			],
+			[
+				"cardRev",
+				"cardsRevealed\tabc"
+			],
+			[
+				"back",
+				"background-image\t(style.css)"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"comm",
+				"comment\tabc"
+			],
+			[
+				"em",
+				"email\t(contact.php)"
+			],
+			[
+				"rquei",
+				"require_once"
+			],
+			[
+				"qe",
+				"query\tabc"
+			],
+			[
+				"print",
+				"print_r\t(db.php)"
+			],
+			[
+				"get",
+				"getOptionSelected\t(survey.php)"
+			],
+			[
+				"curren",
+				"currentPHP"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"list-",
+				"list-style\tproperty"
+			],
+			[
+				"temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"login",
+				"loginErr\t(login.php)"
+			],
+			[
+				"regi",
+				"registros\t(db.php)"
+			],
+			[
+				"user",
+				"user_session.php"
+			],
+			[
+				"userE",
+				"userExist\t(user.php)"
+			],
+			[
+				"pass",
+				"password\tabc"
+			],
+			[
+				"use",
+				"username\tabc"
+			],
+			[
+				"hash",
+				"password_hash"
+			],
+			[
+				"va",
+				"validateUser\t(user.php)"
+			],
+			[
+				"Ero",
+				"ErrorException"
+			],
+			[
+				"U",
+				"User\t(user.php)"
+			],
+			[
+				"ver",
+				"password_verify"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"web",
+				"websiteErr\tabc"
+			],
+			[
+				"ema",
+				"emailErr\tabc"
+			],
+			[
+				"htm",
+				"htmlspecialchars\tabc"
+			],
+			[
+				"slash",
+				"stripslashes"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"main",
+				"main-header\t(style.css)"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"scr",
+				"script.js\tabc"
+			],
+			[
+				"scri",
+				"script.js"
+			],
+			[
+				"actress",
+				"actresses\t(App.js)"
+			],
+			[
+				"Actres",
+				"Actresses"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Reac",
+				"React\tabc"
+			],
+			[
+				"react-",
+				"react-router-dom\t(actors.js)"
+			],
+			[
+				"actre",
+				"actresses.js"
+			],
+			[
+				"spac",
+				"space-around\tjustify-content"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"Actor",
+				"ActorsList\tabc"
+			],
+			[
+				"ACt",
+				"ActorsList\t(actors.js)"
+			],
+			[
+				"nav",
+				"nav-menu__link\tabc"
+			],
+			[
+				"ac",
+				"actress\t(App.js)"
+			],
+			[
+				"clas",
+				"className\t(App.js)"
+			],
+			[
+				"padid",
+				"padding-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tabc"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"w",
+				"w-resize\tcursor"
+			],
+			[
+				"text-decor",
+				"text-decoration\tproperty"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"proce",
+				"process.php\tabc"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"F",
+				"FETCH_OBJ\tabc"
+			],
+			[
+				"art",
+				"articuloModelo\tabc"
+			],
+			[
+				"exception",
+				"ASSERT_EXCEPTION"
+			],
+			[
+				"modelo",
+				"modelo"
+			],
+			[
+				"vista",
+				"vista"
+			],
+			[
+				"par",
+				"parametros"
+			],
+			[
+				"call_u",
+				"call_user_func_array"
+			],
+			[
+				"metodo",
+				"metodoActual"
+			],
+			[
+				"controlador",
+				"controladorActual"
+			],
+			[
+				"filet",
+				"filter_var"
+			],
+			[
+				"p",
+				"p\t<p>"
+			],
+			[
+				"hi",
+				"highlight"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"leng",
+				"length\t: int Array"
+			],
+			[
+				"widt",
+				"width\t Style CSS"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"let",
+				"style_letterSpacing\t = 'initial' Style CSS"
+			],
+			[
+				"dis",
+				"infector_discard_pile"
+			],
+			[
+				"_",
+				"__\t__magic__"
+			],
+			[
+				"infe",
+				"infector_deck"
+			],
+			[
+				"infector",
+				"infector_discard_pile"
+			],
+			[
+				"in",
+				"infector_deck"
+			],
+			[
+				"pla",
+				"new_player_deck"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"player",
+				"player_deck"
+			],
+			[
+				"new_",
+				"new_player_deck"
+			],
+			[
+				"comm-h",
+				"comm-html-section\tComment - HTML section"
+			],
+			[
+				"comm-se",
+				"comm-section\tComment - Full section comment"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 696,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 2809,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 789,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 329.0,
+		"history":
+		[
+			"jj",
+			"k",
+			"exit",
+			"reset()",
+			"close()",
+			"exit(1)",
+			"exit()",
+			"print(a)",
+			"a=1",
+			"npm install -g eslint"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/withoutphp/7games/memory",
+		"/C/xampp/htdocs/withoutphp/7games/memory/img"
+	],
+	"file_history":
+	[
+		"/C/Users/LuisGerman/Desktop/imagenes/shiffman.jpg",
+		"/C/Users/LuisGerman/Desktop/imagenes/hacked.png",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/products.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/css/styles.css",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/received_contact.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/contact.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/index.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/config.php",
+		"/C/xampp/htdocs/multiple_pages_test/views/products.php",
+		"/C/xampp/htdocs/multiple_pages_test/contact",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/56. hashes/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/56. hashes/final.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/15 Fechas/fechas.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/28. creación de BD y tabla/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/vistas/vista-resultados.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/includes/survey.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/includes/db.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/11 Formulario radios.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/10 Formulario listas.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/13. include/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/tutorial/includes/survey.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/07 ciclos/ciclos.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/08 GET y POST/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/01 sintaxis.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/02 strings.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/04 datos.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/05 Condicionales.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/06 arreglos.php",
+		"/C/xampp/htdocs/loginBasico/index.php",
+		"/C/xampp/htdocs/loginBasico/includes/db.php",
+		"/C/xampp/htdocs/loginBasico/includes/user.php",
+		"/C/xampp/htdocs/loginBasico/includes/logout.php",
+		"/C/xampp/htdocs/loginBasico/vistas/login.php",
+		"/C/xampp/htdocs/loginBasico/vistas/home.php",
+		"/C/xampp/htdocs/loginBasico/config.php",
+		"/C/xampp/htdocs/loginBasico/db.php",
+		"/C/xampp/htdocs/loginBasico/user.php",
+		"/C/xampp/htdocs/loginBasico/vistas/home",
+		"/C/xampp/htdocs/loginBasico/style.css",
+		"/C/xampp/htdocs/loginBasico/css",
+		"/C/xampp/htdocs/loginBasico/vistas/login",
+		"/C/xampp/htdocs/loginBasico/user",
+		"/C/xampp/htdocs/loginBasico/db",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/style.css",
+		"/C/Users/LuisGerman/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/index.php",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/index.ph",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/js/main.js",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/css/style.css",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/collection.php",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/index.php",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/script.js",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/index.html",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/style.css",
+		"/C/xampp/htdocs/thinking_in_react/script.js",
+		"/C/xampp/htdocs/thinking_in_react/style.css",
+		"/C/xampp/htdocs/thinking_in_react/data.json",
+		"/C/xampp/htdocs/thinking_in_react/index.html",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/actresses.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/films.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actressesContainer.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actress.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/film.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/filmsContainer.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actresses.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/index.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/css/style.css",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actorsContainer.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actor.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/actors.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/films.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/home.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/App.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/navbar.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/Films",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/actors.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/navbar.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/App.test.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/spa_react.sublime-project",
+		"/C/xampp/htdocs/freeCodeGram/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/PHP-CRUD/Connect.php",
+		"/C/xampp/htdocs/PHP-CRUD/process.php",
+		"/C/xampp/htdocs/PHP-CRUD/index.php",
+		"/C/xampp/htdocs/PHP-CRUD/.htaccess",
+		"/C/xampp/htdocs/PHP-CRUD/read.php",
+		"/C/xampp/htdocs/PHP-CRUD/create.php",
+		"/C/xampp/htdocs/PHP-CRUD/index.html",
+		"/C/xampp/htdocs/crud_mvc/app/helpers/urlhelper.php",
+		"/C/xampp/htdocs/crud_mvc/app/views/inc/header.php",
+		"/C/xampp/htdocs/crud_mvc/app/iniciador.php",
+		"/C/xampp/htdocs/crud_mvc/app/config/configurar.php",
+		"/C/xampp/htdocs/crud_mvc/.htaccess",
+		"/C/xampp/htdocs/crud_mvc/app/.htaccess",
+		"/C/xampp/htdocs/crud_mvc/public/.htaccess",
+		"/C/xampp/htdocs/render2web_mvc/app/views/paginas/inicio.php",
+		"/C/xampp/htdocs/render2web_mvc/app/iniciador.php",
+		"/C/xampp/htdocs/render2web_mvc/app/views/inc/footer.php",
+		"/C/xampp/htdocs/render2web_mvc/app/views/inc/header.php",
+		"/C/xampp/htdocs/render2web_mvc/public/js/main.js",
+		"/C/xampp/htdocs/render2web_mvc/app/controllers/Paginas.php",
+		"/C/xampp/htdocs/render2web_mvc/app/models/Articulo.php",
+		"/C/xampp/htdocs/render2web_mvc/app/libraries/Database.php",
+		"/C/xampp/htdocs/render2web_mvc/app/config/configurar.php",
+		"/C/xampp/htdocs/render2web_mvc/public/css/estilos.css",
+		"/C/xampp/htdocs/render2web_mvc/public/estilos.css",
+		"/C/xampp/htdocs/render2web_mvc/app/libraries/Controller.php",
+		"/C/xampp/htdocs/render2web_mvc/public/index.php",
+		"/C/xampp/htdocs/render2web_mvc/app/libraries/Core.php",
+		"/C/xampp/htdocs/render2web_mvc/app/controllers/Articulos.php",
+		"/C/xampp/htdocs/render2web_mvc/.htaccess",
+		"/C/xampp/htdocs/render2web_mvc/public/.htaccess",
+		"/C/xampp/htdocs/render2web_mvc/controllers/Paginas.php",
+		"/C/xampp/htdocs/render2web_mvc/index.php",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1MazeGenerator/index.html",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1MazeGenerator/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1Maze Generator/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/CodingChallenge#10.1Maze Generator/index.html",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/10.10_The_Giphy_API_and_JavaScript/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/10.10_The_Giphy_API_and_JavaScript/style.css",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/10.10_The_Giphy_API_and_JavaScript/index.html",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/9.9_MinimumSpanning_Tree(Prim)/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/9.9_MinimumSpanning_Tree(Prim)/style.css",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/9.9_MinimumSpanning_Tree(Prim)/index.html",
+		"/C/Users/LuisGerman/index.html",
+		"/C/Users/LuisGerman/style.css",
+		"/C/Users/LuisGerman/sketch.js",
+		"/C/Users/LuisGerman/Desktop/codigos/p5js/9.9_MinimumSpanning_Tree(Prim)/9.9MinimumSpanningTree.sublime-project"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"50",
+			"this",
+			"<div class=\"card\"></div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"card"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								601,
+								601
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										641,
+										644
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										578,
+										581
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1891,
+								1891
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1890,
+										1891
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1889,
+										1890
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										325,
+										326
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										176,
+										177
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "memory.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\loginBasico\\loginBasico.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 61.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
