@@ -12,7 +12,7 @@ function setup() {
 
 function draw() {
   background(50);
-  stroke(255,0,0);
+  stroke(255, 0, 0);
   line(0, height - 80, width, height - 80);
   if (player.isShooting) {
     bullets.push(new Bullet(player.x + player.w / 4, player.y, 10, 20));
@@ -36,22 +36,22 @@ function draw() {
   player.paint();
   player.listenKey();
 
-  if (aliens.length == 0){
+  if (aliens.length == 0) {
     console.log('you win');
     winMessage();
   }
-  
+
   for (i = 0; i < aliens.length; i++) {
     bullets.forEach(b => b.checkBumpsAlien(aliens[i]));
     aliens[i].paint();
     aliens[i].move();
-    if(aliens[i].checkTresspass()){
+    if (aliens[i].checkTresspass()) {
       console.log('you lose');
       loseMessage();
       break;
     }
   }
-  
+
   collectGarbage();
 }
 
@@ -68,14 +68,14 @@ function collectGarbage() {
   });
 }
 
-function loseMessage(){
+function loseMessage() {
   noLoop();
   noCanvas();
   createImg('img/game_over.PNG', '');
 }
 
 
-function winMessage(){
+function winMessage() {
   noLoop();
   noCanvas();
   createImg('img/winner.PNG', '');

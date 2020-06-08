@@ -5,8 +5,8 @@ function Player(x, y, w, h) {
   this.h = h;
   this.isShooting = false;
   this.canShoot = true;
-  this.reloadTime = 500;  // ms
-  
+  this.reloadTime = 500; // ms
+
   this.paint = function() {
     noStroke();
     fill(0, 200, 0);
@@ -16,7 +16,7 @@ function Player(x, y, w, h) {
   this.move = function(direction) {
     if (direction == 'left') {
       this.x -= 5;
-    }else if (direction == 'right') {
+    } else if (direction == 'right') {
       this.x += 5;
     }
   }
@@ -32,14 +32,14 @@ function Player(x, y, w, h) {
       this.shoot();
     }
   }
-  
+
   this.shoot = function() {
-    if(this.canShoot){
-      this.isShooting = true;   
+    if (this.canShoot) {
+      this.isShooting = true;
     }
   }
-  
-  this.reload = function(){
+
+  this.reload = function() {
     setTimeout(() => this.canShoot = true, this.reloadTime);
   }
 }

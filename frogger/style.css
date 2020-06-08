@@ -1,86 +1,97 @@
-body{
-	background: #f1f1f1;
-	text-align: center;
+body {
+  background: #f1f1f1;
+  text-align: center;
 }
 
-.tile-container{
-	border: 2px black solid;
-	display: grid;
-	grid-template-columns: repeat(20, 20px);  
-	max-width: 400px;
-	margin: 0 auto;
+.tile-container {
+  border: 2px black solid;
+  display: grid;
+  grid-template-columns: repeat(20, 20px);
+  max-width: 400px;
+  margin: 0 auto;
 }
 
-.tile{
-	width: 20px;
-	height: 20px;
-	background: white;
+.tile {
+  width: 20px;
+  height: 20px;
+  background: white;
 }
 
-.water{
-	background: blue;
+.water {
+  background: blue;
 }
 
-.rock{
-	background: rgb(100,100,100);
+.rock {
+  background: rgb(100, 100, 100);
 }
 
-.trunk{
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
-	box-sizing: border-box;
-	background: brown;
+.trunk {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  box-sizing: border-box;
+  background: brown;
 }
 
-.trunk-left{
-	border-left: 1px solid black;
+.trunk-left {
+  border-left: 1px solid black;
 }
 
-.trunk-right{
-	border-right: 1px solid black;
+.trunk-right {
+  border-right: 1px solid black;
 }
 
-.frog{
-	background: green;
+.frog {
+  background: green;
 }
 
-.controls{
-	margin: 10px auto;
+.controls {
+  margin: 10px auto;
 }
 
-.main-container{
-	display: grid;
-	grid-template-columns: 1fr 2fr 1fr;  
-	width: 100%;
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  width: 100%;
 }
 
-.game-container p{
-	margin: 5px;
+.game-container p {
+  margin: 5px;
 }
 
-#back-button{
-	position: absolute;
-}
-
-
-#final-message{
-	font-size: 100px;
-	position: fixed;
-	transform: translate(-50%, -50%);
-    background-color: yellow;
-    top: 50%;
-    left: 50%;
-	display: none;
+#back-button {
+  position: absolute;
 }
 
 
-
-@keyframes xd{
-	0%{color: black; font-size: 100%;}
-	50%{color: blue; font-size: 150%;}
-	100%{color: red; font-size: 200%;}
+#final-message {
+  font-size: 100px;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  background-color: yellow;
+  top: 50%;
+  left: 50%;
+  display: none;
 }
 
-.hidden{
-	/*display: none;*/
+
+
+@keyframes xd {
+  0% {
+    color: black;
+    font-size: 100%;
+  }
+
+  50% {
+    color: blue;
+    font-size: 150%;
+  }
+
+  100% {
+    color: red;
+    font-size: 200%;
+  }
+}
+
+.hidden {
+  /*display: none;*/
 }
