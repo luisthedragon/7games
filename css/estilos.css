@@ -1,17 +1,27 @@
 .contenedor {
-    height: 400px;
+  height: 400px;
 }
 
 .contenido {
-    width: 100%;
+  width: 100%;
 }
 
 .imagen {
-    width: 450px;
+  width: 450px;
 }
 
 .texto {
-    width: 400px;
+  width: 400px;
 }
 
 .boton {}
+
+section:nth-child(2n) div div * {
+  text-align: justify;
+  color: #f9f9f9;
+}
+
+section:nth-child(2n + 1) div div * {
+  text-align: justify;
+  color: white;
+}
