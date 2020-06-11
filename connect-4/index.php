@@ -9,8 +9,7 @@
 
 <body>
     <!-- <nav id='back-button'><a href="../index.html">Back</a></nav> -->
-    <object data="../header.html" height="60px" width="100%" name="contenedor">
-	</object>
+    <?php require_once '../header.php' ?>
     <h1>My awesome connect 4</h1>
     <p>Your turn:<span id='player-turn'></span></p>
     <script language="javascript" type="text/javascript">

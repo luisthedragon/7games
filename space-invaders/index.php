@@ -2,8 +2,7 @@
 <html lang="en">
 
 <head>
-    <object data="../header.html" height="60px" width="100%" name="contenedor">
-	</object>
+    <?php require_once '../header.php' ?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">

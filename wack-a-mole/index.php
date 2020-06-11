@@ -8,8 +8,7 @@
 </head>
 
 <body>
-    <object data="../header.html" height="60px" width="100%" name="contenedor">
-	</object>
+    <?php require_once '../header.php' ?>
     <!-- <nav id='back-button'><a href="../index.html">Back</a></nav> -->
     <h1>My awesome wack-a-mole-game</h1>
     <p>Time left: <span id="timeLeft">30</span></p>

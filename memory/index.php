@@ -8,8 +8,9 @@
 </head>
 
 <body>
-  <object data="../header.html" height="60px" width="100%" name="contenedor">
-  </object>
+  <!-- <object data="../header.html" height="60px" width="100%" name="contenedor">
+  </object> -->
+  <?php require_once '../header.php' ?>
   <h1>My awesome Memory Game</h1>
   <div class="card-container">
     <div class="card"></div>
